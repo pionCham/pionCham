@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hello, I'm pionCham!👋
+
+Welcome to my GitHub page! I'm a software developer with a passion for Big Data.
+
+## About Me
+
+- 🌱 Currently learning Big Data Technology.
+- 💼 Experience in Data Government.
+- 📫 You can reach me at chengpm2021@gmail.com.
+
 
 <!--
 **pionCham/pionCham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
